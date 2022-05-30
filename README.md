@@ -5,7 +5,7 @@
 * [Huffman coding](https://github.com/pk3741/huffman_coding)
 
 ## Working at:
-* **RLE** encoding/decoding
-* **LZ77** encoding/decoding
+* [*C++*] **RLE** encoding/decoding 
+* [*C++*] **LZ77** encoding/decoding 
 
 
