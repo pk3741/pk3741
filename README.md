@@ -6,6 +6,6 @@
 * [RLE coding](https://github.com/pk3741/rle)
 
 ## Working at:
-* [*C++*] **LZ77** encoding/decoding 
+* [*C++*] [LZ77 encoding/decoding](https://github.com/pk3741/lz77)
 
 
