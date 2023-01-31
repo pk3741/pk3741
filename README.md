@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Projects:
 * [*Python*] [Modified Euler's Method](https://github.com/pk3741/modified-euler-method)
-* [*Python*] [Signal Generation, Windows and DFT](https://github.com/pk3741/signal_generation_dft)
+* [*Python*] [*Tkinter*] [Signal Generation, Windows and DFT](https://github.com/pk3741/signal_generation_dft)
 
 To fix/refactor/finish projects:
 * [*C++*] [Arithmetic coding](https://github.com/pk3741/arithmetic_coding)
