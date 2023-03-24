@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Projects:
 Current:
-* [*C++*] [No Code Plagiarism](https://github.com/pk3741/no-code-plagiarism)
+* [*C++*] [No Code Plagiarism](https://github.com/pk3741/no-code-plagiarism) - C++ code comparasion, C++ parser
 
 
 Finished/abandoned:
